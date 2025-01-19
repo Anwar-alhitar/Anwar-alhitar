@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300C4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full-Stack+Developer;Laravel+and+.NET+Specialist;Passionate+about+SaaS+and+Multivendor+Marketplaces;Always+Learning+and+Exploring+New+Tech">
   </a>
 </p>
-
 <br>
 
 <p align="center"> 
@@ -13,8 +12,6 @@
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Activity Rank" target="_blank" height=25px, width=250px/> 
 	</a>
 </p>
-
----
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
