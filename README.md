@@ -31,7 +31,7 @@
 
 ## 🌐 Introduction
 
-I'm web developer with more than five years experiance , i work in Ebda3Soft company from 2023 to now , i worked in  
+I'm web developer with more than five years experiance , i work in Ebda3Soft company from 2023 to now , i created a lot of applications 
 
 ---
 
