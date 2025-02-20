@@ -6,7 +6,6 @@
 </p>
 <br>
 
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Anwar-alhitar&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" height=25px, width=160px/> 
 	<a href = "https://commits.top/yemen.html" target="_blank">
@@ -47,6 +46,7 @@ I'm web developer with more than five years experiance , i work in Ebda3Soft com
 
 ## 🛠️ Languages, Skills, & Tools 
 <div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
