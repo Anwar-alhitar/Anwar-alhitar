@@ -33,8 +33,6 @@
 - <img width="50" height="50" src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2"> <a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md"> DeepSeek.AspClient </a> Deepseek.ASPClient is a lightweight ASP.NET wrapper for the Deepseek AI API, designed to simplify AI-driven text processing in .NET applications.
 - <img width="50" height="50" src="https://github.com/user-attachments/assets/81c2c5b0-960d-4a64-a6a4-626751c29c1f"> <a href="https://github.com/Anwar-alhitar/qwen.ASPClient/blob/main/README.md" >  Qwen.AspClient </a> Qwen.ASPClient is a lightweight and efficient ASP.NET wrapper for the Qwen AI API, providing seamless integration into .NET applications.
 - Iftar Management System: A comprehensive solution for managing and tracking meal distributions during Ramadan, built with Laravel and Filament. https://github.com/Anwar-alhitar/iftar-management
- 
-
 
 ---
 
@@ -106,7 +104,6 @@ Here are some examples:
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://masterfulcrm.com">Visit our website</a >|
 
----
 
 ## 🌟 Contact Me
 <div align="left">
