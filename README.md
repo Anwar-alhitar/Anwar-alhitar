@@ -103,7 +103,6 @@ Here are some examples:
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://masterfulcrm.com">Visit our website</a >|
 
-
 ## 🌟 Contact Me
 <div align="left">
   <a href="https://www.youtube.com/@%D8%A7%D9%86%D9%88%D8%B1%D8%B7%D9%87%D8%A7%D9%84%D9%87%D8%AA%D8%A7%D8%B1" target="_blank">
