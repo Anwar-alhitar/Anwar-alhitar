@@ -19,7 +19,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 🌟 I am a **Full-Stack Developer** with expertise in **Laravel** and **.NET MVC Core**.
+- 🌟 I am a **Full-Stack Developer** with 5 years of expertise in **Laravel** and **.NET MVC Core**.
 - 🚀 I’m passionate about building **SaaS applications** and **multivendor marketplaces**.
 - 🎙️ Podcast host, sharing insights about tech and innovation.
 - 📚 Currently learning **Blazor**, **Docker**, and **DevOps tools**.
