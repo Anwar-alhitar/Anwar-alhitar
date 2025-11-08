@@ -34,9 +34,13 @@
 - Iftar Management System: A comprehensive solution for managing and tracking meal distributions during Ramadan, built with Laravel and Filament. https://github.com/Anwar-alhitar/iftar-management
 ---
 
-## 🌐 Introduction
 
-I'm web developer with more than five years experiance , i work in Ebda3Soft company from 2023 to now , i created a lot of applications 
+
+## 👨‍💻 Professional Summary
+
+I’m a passionate web developer with 5+ years of experience specializing in **Laravel**, **.NET Core**, and **API-driven SaaS applications**.  
+Currently, I’m working at **YOU Telecom Company** as a **Flutter Developer**, **ASP.NET Developer**, and **Web Developer**, building scalable, high-performance applications for telecom services.  
+Since 2023, I’ve also been part of **Ebda3Soft**, contributing to modern software solutions and robust system architectures.
 
 ---
 
