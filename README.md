@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Anwar Al-Hitar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -19,32 +18,36 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 🌟 I am a **Full-Stack Developer** with 5 years of experience in **Laravel** and **.NET MVC Core**.
-- 🚀 I’m passionate about building **SaaS applications** and **multivendor marketplaces**.
-- 🎙️ Podcast host, sharing insights about tech and innovation.
-- 📚 Currently learning **Blazor**, **Docker**, and **DevOps tools**.
-- 🤝 Open for **collaborations** and **job opportunities**!
-- 🌍 Based in **Yemen**, exploring global opportunities.
+- 🌟 Senior **Full-Stack Developer** with **7+ years** of experience specializing in **Laravel**, **.NET Core**, and **Flutter**.
+- 🚀 Passionate about architecting **scalable SaaS systems**, **distributed architectures**, and **multivendor marketplaces**.
+- 🎙️ Tech speaker & podcast host sharing practical engineering insights.
+- 📚 Currently exploring advanced **Blazor** patterns and distributed cloud architectures.
+- 🤝 Open for **technical leadership**, **collaborations**, and **high-impact opportunities**!
+- 🌍 Based in **Yemen**, collaborating across borders.
 - 🌟 Check my **[Resume](https://rowad.tarwege.com/anwar)** and **[Website](https://rowad.tarwege.com/anwar)**.
 
 ---
 
-## 🌐 My shared repositories 
-- <img width="50" height="50" src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2"> <a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md">DeepSeek.AspClient</a> Deepseek.ASPClient is a lightweight ASP.NET wrapper for the Deepseek AI API, designed to simplify AI-driven text processing in .NET applications.
-- <img width="50" height="50" src="https://github.com/user-attachments/assets/81c2c5b0-960d-4a64-a6a4-626751c29c1f"> <a href="https://github.com/Anwar-alhitar/qwen.ASPClient/blob/main/README.md">Qwen.AspClient</a> Qwen.ASPClient is a lightweight and efficient ASP.NET wrapper for the Qwen AI API, providing seamless integration into .NET applications.
-- Iftar Management System: A comprehensive solution for managing and tracking meal distributions during Ramadan, built with Laravel and Filament. https://github.com/Anwar-alhitar/iftar-management
+## 🌐 Featured Repositories 
+- <img width="40" height="40" src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" align="left"> **[DeepSeek.AspClient](https://github.com/Anwar-alhitar/Deepseek.Asp.Client)** Lightweight ASP.NET wrapper for the DeepSeek AI API, streamlining LLM text processing inside modern .NET applications.
+  <br clear="left">
+- <img width="40" height="40" src="https://github.com/user-attachments/assets/81c2c5b0-960d-4a64-a6a4-626751c29c1f" align="left"> **[Qwen.AspClient](https://github.com/Anwar-alhitar/qwen.ASPClient)** High-performance ASP.NET wrapper for the Qwen AI API, offering seamless API orchestration in .NET ecosystems.
+  <br clear="left">
+- <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" align="left"> **[Iftar Management System](https://github.com/Anwar-alhitar/iftar-management)** Full-scale meal distribution and relief logistics tracker built with **Laravel** and **Filament Admin**.
+  <br clear="left">
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I’m a passionate web developer with 7+ years of experience specializing in **Laravel**, **Flutter**, **.NET Core**, and **API-driven SaaS applications**.  
-Currently, I’m working at **YOU Telecom Company** as a **Flutter Developer**, **ASP.NET Developer**, and **Web Developer**, building scalable, high-performance applications for telecom services.  
-Since 2023, I’ve also been part of **Ebda3Soft**, contributing to modern software solutions and robust system architectures.
+I am a software engineer with **7+ years of experience** specializing in **Laravel**, **Flutter**, **.NET Core**, and **API-driven enterprise systems**.  
+Currently working at **YOU Telecom Company** driving mobile and web platforms (**Flutter**, **ASP.NET**, and microservices) for high-scale telecommunications workflows.  
+Since 2023, I have also contributed to **Ebda3Soft**, engineering resilient architectures, database solutions, and distributed backend services.
 
 ---
 
 ## 🛠️ Languages, Skills, & Tools 
+
 ### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -84,16 +87,14 @@ Since 2023, I’ve also been part of **Ebda3Soft**, contributing to modern softw
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
-### 🏛️ Architecture & Core Engineering
+### 🏛️ Architecture & Engineering Practices
 <p align="left">
-  <img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge&logo=blueprint&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="System Design" />
   <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices" />
   <img src="https://img.shields.io/badge/Load_Balancing-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Load Balancing" />
   <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
-  <img src="https://img.shields.io/badge/DevOps_Culture-000000?style=for-the-badge&logo=infinity&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="DevOps" />
 </p>
-
-<br />
 
 ---
 
@@ -122,4 +123,3 @@ Since 2023, I’ve also been part of **Ebda3Soft**, contributing to modern softw
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
-
